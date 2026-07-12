@@ -1,2 +1,2 @@
 # fossbilling
-plugin and other module
+plugin and other Library
