@@ -17,7 +17,7 @@ declare(strict_types=1);
  * API: https://api.enom.com/docs
  * Production: https://reseller.enom.com/interface.asp
  * Sandbox:    https://resellertest.enom.com/interface.asp
- *       created info@by-systems.com
+ * created info@by-systems.com
  * SPDX-License-Identifier: Apache-2.0
  * ============================================================
  */
